@@ -10,12 +10,14 @@
 
 ## Features
 
-* 🧭 <strong>Chain Explorer - </strong> Allows you to traverse the chainverse and cultivate your perpective.
-* 👛 <strong>Wallet - </strong> Holds your crypto safe & tidy but always on-hand.
-* 🍾 <strong>Community platform - </strong> PB lets you organize your ecosystem in a smooth and discrete way.
+* 🧭 <strong>Strong fault tolerent PoW/PoS Hybrid DCS - </strong> To act as a sharded ledger to maintain consensus across all child sidechains
+* 👛 <strong>WoT as an intergral part of the system - </strong> Rewards issued though KeySigning and mediated via WoT decentralised analysis
+* 🍾 <strong>Decentralised sharded ledger - </strong> Start your own chain and ignore everyone outside your network until such time as this is re-synced with main chain
 
 
+## Details TBD
 
+*Please see [Poject Board](https://github.com/HODL-DAO/DoubleHelix/projects/1)
 
 
 ## Want to contribute?
