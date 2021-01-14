@@ -10,9 +10,9 @@
 
 ## Features
 
-* 🧭 <strong>Strong fault tolerent PoW/PoS Hybrid DCS - </strong> To act as a sharded ledger to maintain consensus across all child sidechains
-* 👛 <strong>WoT as an intergral part of the system - </strong> Rewards issued though KeySigning and mediated via WoT decentralised analysis
-* 🍾 <strong>Decentralised sharded ledger - </strong> Start your own chain and ignore everyone outside your network until such time as this is re-synced with main chain
+* 💪 <strong>Strong fault tolerent PoW/PoS Hybrid DCS - </strong> To act as a sharded ledger to maintain consensus across all child sidechains
+* 🕸 <strong>WoT as an intergral part of the system - </strong> Rewards issued though KeySigning and mediated via WoT decentralised analysis
+* 🌍 <strong>Decentralised sharded ledger - </strong> Start your own chain and ignore everyone outside your network until such time as this is re-synced with main chain
 
 
 ## Details TBD
