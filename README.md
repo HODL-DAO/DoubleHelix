@@ -20,7 +20,7 @@
 
 ## Details TBD
 
-*Please see [Poject Board](https://github.com/HODL-DAO/DoubleHelix/projects/1)
+<i>Please see [Poject Board](https://github.com/HODL-DAO/DoubleHelix/projects/1)</i>
 
 
 ## Want to contribute?
