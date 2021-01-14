@@ -1,4 +1,3 @@
-# DoubleHelix
 <div align="center">
   <p>
     <img src="https://i.imgur.com/3hIS3zV.png" width="250" />
