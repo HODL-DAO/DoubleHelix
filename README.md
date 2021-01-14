@@ -7,7 +7,7 @@
     ✨ Research project into a successful PoKS DCS. ✨ 
   </p>
   <p>
-    ✨ A HODL-DAO Venture. ✨
+    🚀 A HODL-DAO Venture. 🚀
   </p>
 </div>
 
