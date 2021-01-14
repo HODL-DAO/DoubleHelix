@@ -4,7 +4,10 @@
     <img src="https://i.imgur.com/3hIS3zV.png" width="250" />
   </p>
   <p>
-    ✨ HODL-DAO Research project into a successful PoKS DCS. A HODL-DAO Venture. ✨
+    ✨ Research project into a successful PoKS DCS. ✨ 
+  </p>
+  <p>
+    ✨ A HODL-DAO Venture. ✨
   </p>
 </div>
 
