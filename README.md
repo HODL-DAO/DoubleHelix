@@ -1,7 +1,4 @@
 # DoubleHelix
-
-*Please see project board for ongoing research and technical discussion*
-
 <div align="center">
   <p>
     <img src="https://i.imgur.com/3hIS3zV.png" width="150" />
