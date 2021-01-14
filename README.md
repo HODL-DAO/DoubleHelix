@@ -6,7 +6,7 @@
     ✨ Research project into a successful PoKS DCS. ✨ 
   </p>
   <p>
-    🚀 A [<strong>HODL-DAO</strong>](https://github.com/HODL-DAO/) Venture. 🚀
+    🚀 A [HODL-DAO](https://github.com/HODL-DAO/) Venture. 🚀
   </p>
 </div>
 
