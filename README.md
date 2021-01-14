@@ -28,5 +28,3 @@
 We're discussing about the project [Roadmap](https://github.com/HODL-DAO/Roadmaps/tree/master/output/DoubleHelix), feel free to share your ideas and your feedback. 😀
 
 For code contributions, please follow the official conventions surrounding PRs, forks, bugs and the like. We're all about openSource so the more time spent thinking about this; the better 🤓
-
-]
