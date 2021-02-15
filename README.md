@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <img src="https://i.imgur.com/3hIS3zV.png" width="250" />
+    <img src="https://i.imgur.com/3hIS3zV.png" width="500" />
   </p>
   <p>
     ✨ Research project into a successful PoKS DCS. ✨ 
